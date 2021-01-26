@@ -1,5 +1,5 @@
 # Text Mining 2020/21
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/AUC_TMCI_2021/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/AUC_TMCI_2021/main)
 
 Amsterdam University College -- Text Mining -- Winter/Spring 2021.
 
