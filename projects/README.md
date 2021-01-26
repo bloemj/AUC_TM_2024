@@ -1,4 +1,4 @@
-# AUC_TMCI_2019 Projects
+# Group projects
 
 The project is the main grading item of the course. It will allow you to choose a dataset and question of interest, and run an analysis all the way to communicating its results. A project should be an analysis of a question or topic of interest, using text data. You can use the techniques we have seen in class and/or others as well. 
 
@@ -22,7 +22,7 @@ The project is the main grading item of the course. It will allow you to choose 
 * **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by others. Under no circumstances may you look at another project's code, or incorporate their code into your project.
 * **Logistics**: you must create your project's GitHub (or GitLab) repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
 * **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a GitHub *issue* for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
-* **Final submission**. You are expected to submit the following: a short **report** (4-page maximum, excluding references), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
+* **Final submission**. You are expected to **submit a URL to your repository**, containing the following: a short **report** (4-page maximum, excluding references), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
 
 ## Set-up
 
@@ -36,6 +36,7 @@ The project is the main grading item of the course. It will allow you to choose 
     * https://www.kaggle.com/datasets
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind these are from other courses at the master level (mostly at my former university): do get inspired, but do not get worried.
+    * [Projects from the previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2019)
     * https://dlab.epfl.ch/teaching/fall2018/cs401/reports
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
