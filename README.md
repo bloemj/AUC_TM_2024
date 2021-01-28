@@ -9,13 +9,13 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 | Week         | Topic           | Materials  |
 | ------------- |-------------| -----:|
-| 1      | Introduction and Python refresher | <a href='https://docs.google.com/presentation/d/1nnQD0-YW6KMO46iSKRmzs2rT3Ji29GujRmErLg_n8YE/edit?usp=sharing'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/2_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/3_EvenMoreFundamentals.ipynb'>3</a> |
-| 2      | Introduction to NLP, regular expressions and scientific programming | <a href='https://docs.google.com/presentation/d/159wdX1hSmMZ3qi1VAE5KkxB_oltV5g83ljYSpgIZqX4/edit?usp=sharing'>slides</a> + notebooks <a href='notebooks/4_RegularExpressions.ipynb'>1</a>, <a href='notebooks/4_ScientificProgramming.ipynb'>2</a> |
-| 3      | Language modelling and NLP pipelines |  |
-| 4      | Machine learning fundamentals pt. I and Python ML libraries |  |
-| 5      | Text classification |  |
-| 6      | Machine learning fundamentals pt. II and PyTorch  |  |
-| 7      | Word embeddings  |  |
+| 1      | Introduction and Python refresher | <a href='https://docs.google.com/presentation/d/1nnQD0-YW6KMO46iSKRmzs2rT3Ji29GujRmErLg_n8YE/edit?usp=sharing'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
+| 2      | Introduction to NLP and NLP pipelines | <a href='https://docs.google.com/presentation/d/159wdX1hSmMZ3qi1VAE5KkxB_oltV5g83ljYSpgIZqX4/edit?usp=sharing'>slides</a> + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
+| 3      | Language modelling  |  |
+| 4      | Vector space semantics |  |
+| 5      | Word embeddings |  |
+| 6      | Machine learning fundamentals and PyTorch  |  |
+| 7      | Text classification  |  |
 | 8      | Advanced architectures and NER  |  |
 | 9      | Web scraping and APIs  |  |
 | 10      | Recommender systems  |  |
