@@ -29,7 +29,7 @@ See the [projects folder](/projects) for info.
 
 ## Set-up
 
-1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2019.git`
+1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2021.git`
 2. Get updates (from time to time): `git pull`
 3. Create a conda environemnt: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
 4. Activate it: `conda activate myenv`
