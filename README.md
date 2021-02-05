@@ -11,16 +11,16 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | ------------- |-------------| -----:|
 | 1      | Introduction and Python refresher | <a href='https://docs.google.com/presentation/d/1nnQD0-YW6KMO46iSKRmzs2rT3Ji29GujRmErLg_n8YE/edit?usp=sharing'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
 | 2      | Introduction to NLP and NLP pipelines | <a href='https://docs.google.com/presentation/d/159wdX1hSmMZ3qi1VAE5KkxB_oltV5g83ljYSpgIZqX4/edit?usp=sharing'>slides</a> + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
-| 3      | Language modelling  |  |
-| 4      | Vector space semantics |  |
-| 5      | Word embeddings |  |
-| 6      | Machine learning fundamentals and PyTorch  |  |
+| 3      | Language modelling  | <a href='slides/AUC_3_language_models.pdf'>slides</a> + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a> |
+| 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
+| 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
+| 6      | Machine learning fundamentals and PyTorch  | <a href='slides/AUC_6_ML_revised.pdf'>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
 | 7      | Text classification  |  |
 | 8      | Advanced architectures and NER  |  |
-| 9      | Web scraping and APIs  |  |
-| 10      | Recommender systems  |  |
-| 11      | Creating annotated corpora and sentiment analysis  |  |
-| 12      | Clustering and topic modelling  |  |
+| 9      | Web scraping and APIs  | <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
+| 10      | Recommender systems  | <a href='slides/AUC_10_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
+| 11      | Creating annotated corpora and sentiment analysis  | <a href='slides/AUC_11_Creating_annotated_corpora.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
+| 12      | Clustering and topic modelling  | <a href='slides/AUC_9_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
 | 13      | Trendy research topics  |  |
 
 ## Group projects
