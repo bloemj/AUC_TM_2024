@@ -1,5 +1,6 @@
 # repo specific
 notebooks/data/ml-1m/*
+assignments/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
