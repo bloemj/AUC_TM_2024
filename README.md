@@ -23,6 +23,22 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 12      | Clustering and topic modelling  | <a href='slides/AUC_9_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
 | 13      | Explainable/interpretable AI and ethical considerations  |  |
 
+### External materials
+
+#### Neural networks
+
+* [Introduction (Stanford's CS231N)](https://cs231n.github.io/neural-networks-1).
+* [Optimization 1 (Stanford's CS231N)](https://cs231n.github.io/optimization-1/).
+* [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) by Andrej Karpathy.
+* [Optimization 2 (Stanford's CS231N)](https://cs231n.github.io/optimization-2/).
+
+#### Tutorials
+
+* [SpaCy 101](https://spacy.io/usage/spacy-101).
+* [scikit-learn tutorials](https://scikit-learn.org/stable/tutorial/index.html).
+* [PyTorch 60m blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
+* [PyTorch text classification with torchtext](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html).
+
 ## Group projects
 
 See the [projects folder](/projects) for info.
