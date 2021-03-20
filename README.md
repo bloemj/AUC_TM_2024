@@ -16,7 +16,7 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | <a href='slides/AUC_6_ML_revised.pdf'>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
 | 7      | Text classification  | <a href='slides/AUC_7_text_classification.pdf'>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
-| 8      | Advanced architectures and NER  |  |
+| 8      | RNNs and NER  | <a href='slides/AUC_8_RNNs.pdf'>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
 | 9      | Web scraping and APIs  | <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
 | 10      | Recommender systems  | <a href='slides/AUC_10_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
 | 11      | Creating annotated corpora and sentiment analysis  | <a href='slides/AUC_11_Creating_annotated_corpora.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
