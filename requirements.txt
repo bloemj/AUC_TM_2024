@@ -15,4 +15,7 @@ configparser
 requests
 pandas
 gensim
+pytorch
+torchtext
+
 
