@@ -21,7 +21,7 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 10      | Recommender systems  | <a href='slides/AUC_9_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
 | 11      | Creating annotated corpora and sentiment analysis  | <a href='slides/AUC_10_Creating_annotated_corpora.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
 | 12      | Clustering and topic modelling  | <a href='slides/AUC_11_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
-| 13      | Explainable/interpretable AI and ethical considerations  |  |
+| 13      | XAI and Ethics  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2021) |
 
 ### External materials
 
