@@ -43,6 +43,15 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 See the [projects folder](/projects) for info.
 
+### Project outcomes
+
+* Tim Holthuijsen, Sergio Kazatzidis, Emilia Chammas, [NLPChef - An NLP model for cooking recipe creation](https://github.com/timholthuijsen/NLPChef)
+* Lisa van Gelderen, Alexia Muresan, Zoë Prins, Victor van der Sman, [Gender Bias in Fairy Tales](https://github.com/lisavangelderen/FairyTale)
+* Sarah de Jong, Tom Klein Tijssink, Lukas Busch, [Exploring Different Machine Learning Approaches To Generate Song Lyrics](https://github.com/Brahex/text-mining-final-project)
+* Yiyang Cheng, Amaan Syed, Tori Baral, [Explaining the qualitative differences between different classifiers on cyberbullying datasets](https://github.com/cyymbanzakongo/TextMiningYAT)
+* Ilai Bachrach, Marc Oliveau, [Lyric-based recommendation for music playlists](https://github.com/MarcOliveau/ContentBased_RecommenderSystem)
+* Berke Filiz, Yuval Goren, AnneLouise de Boer, [Recipe Generator](https://github.com/berkefiliz/text-mining-project/tree/Final_branch)
+
 ## Set-up
 
 1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2021.git`
