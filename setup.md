@@ -26,22 +26,28 @@ For Windows, see [here](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_
 
 ### Getting class code and working on your own
 
-#### The best way
+#### The best way - Cloud
+
+1. The first time, make a Github account and fork the repository to your Github account: go to https://github.com/bloemj/AUC_TMCI_2022 and click Fork
+2. Get updates to the code before every lab: In your fork on the Github website, click "Fetch upstream"
+3. Launch notebooks by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window. Enter the GitHub URL of the fork of the course materials in your own GitHub account to be able to save your changes. 
+
+#### The best way - Offline
 
 1. The first time, clone the repository locally using `git clone https://github.com/Giovanni1085/AUC_TMCI_2021.git`.
 2. Keep getting updates to the code before every lab by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
 
-#### The easy way - 1 
+#### The easy way - 1
 
 You might want to use the [GitHub Desktop app](https://desktop.github.com) to keep track of your repositories. If you have it installed, instead of cloning the repo you can use the Open in Desktop option.
 
 #### The easy way - 2
 
-Just download the repository code before every lab, by clicking on `Clone or download`, and then `Download ZIP`. You will then need to unzip the downloaded file.
+Just download the repository code before every lab, by clicking on `Clone or download`, and then `Download ZIP`. You will then need to unzip the downloaded file and open it either in Google Colab or locally.
 
-**IMPORTANT**: Either way, this copy of the course repo will conflict with any change you made yourself to the files in there. This is especially the case for the former way: if you pull, then you edit, then I edit, then you pull again, there will likely be a conflict if we both changed the same files. I recommend to put your edited copies of the repository contents in a separate folder, so to keep your edits (ideally, you could do versioning on a repository of your own!).
+**IMPORTANT**: Cloning or downloading a copy of the course repo will conflict with any change you made yourself to the files in there. This is especially the case if you do not work in your own fork of the repository: if you pull, then you edit, then I edit, then you pull again, there will likely be a conflict if we both changed the same files. I recommend to fork the repository to your own Github account to have version control for your own edits (see The best way - Cloud, but you can fork locally too). Alternatively, when working locally, I recommend that you put your edited copies of the repository contents in a separate folder to keep your changes.
 
-### Conda
+### Running Python on your own machine: Conda
 
 1. Install conda using the [Anaconda distribution](https://www.anaconda.com/distribution/), remember to pick Python 3.7 and the OS you need. Get the graphical installer.
 2. After installation, you will have an app called **Anaconda Navigator** installed. You can create and manage enviromnents and use jupyter notebooks from it, without using the terminal, mostly.

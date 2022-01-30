@@ -1,7 +1,7 @@
 # Text Mining 2020/21
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/AUC_TMCI_2021/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/AUC_TMCI_2022/main)
 
-Amsterdam University College -- Text Mining -- Winter/Spring 2021.
+Amsterdam University College -- Text Mining -- Winter/Spring 2022.
 
 ## Contents
 
@@ -9,8 +9,8 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 | Week         | Topic           | Materials  |
 | ------------- |-------------| -----:|
-| 1      | Introduction and Python refresher | <a href='https://docs.google.com/presentation/d/1nnQD0-YW6KMO46iSKRmzs2rT3Ji29GujRmErLg_n8YE/edit?usp=sharing'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
-| 2      | Introduction to NLP and NLP pipelines | <a href='https://docs.google.com/presentation/d/159wdX1hSmMZ3qi1VAE5KkxB_oltV5g83ljYSpgIZqX4/edit?usp=sharing'>slides</a> + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
+| 1      | Introduction and Python refresher | <a href=''>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
+| 2      | Introduction to NLP and NLP pipelines | <a href=''>slides</a> + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
 | 3      | Language modelling  | <a href='slides/AUC_3_language_models.pdf'>slides</a> + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a> |
 | 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
@@ -19,9 +19,10 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 8      | RNNs and NER  | <a href='slides/AUC_8_RNNs.pdf'>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
 | 9      | Web scraping and APIs  | <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
 | 10      | Recommender systems  | <a href='slides/AUC_9_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
-| 11      | Creating annotated corpora and sentiment analysis  | <a href='slides/AUC_10_Creating_annotated_corpora.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
-| 12      | Clustering and topic modelling  | <a href='slides/AUC_11_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
-| 13      | XAI and Ethics  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2021) |
+| 11      | Creating annotated corpora  | <a href='slides/AUC_10_Creating_annotated_corpora.pdf'>slides</a> |
+| 12      | Sentiment analysis  | <a href=''>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
+| 13      | Clustering and topic modelling  | <a href='slides/AUC_11_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
+| 14      | XAI and Ethics  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) |
 
 ### External materials
 
@@ -45,16 +46,19 @@ See the [projects folder](/projects) for info.
 
 ### Project outcomes
 
-* Tim Holthuijsen, Sergio Kazatzidis, Emilia Chammas, [NLPChef - An NLP model for cooking recipe creation](https://github.com/timholthuijsen/NLPChef)
-* Lisa van Gelderen, Alexia Muresan, Zoë Prins, Victor van der Sman, [Gender Bias in Fairy Tales](https://github.com/lisavangelderen/FairyTale)
-* Sarah de Jong, Tom Klein Tijssink, Lukas Busch, [Exploring Different Machine Learning Approaches To Generate Song Lyrics](https://github.com/Brahex/text-mining-final-project)
-* Yiyang Cheng, Amaan Syed, Tori Baral, [Explaining the qualitative differences between different classifiers on cyberbullying datasets](https://github.com/cyymbanzakongo/TextMiningYAT)
-* Ilai Bachrach, Marc Oliveau, [Lyric-based recommendation for music playlists](https://github.com/MarcOliveau/ContentBased_RecommenderSystem)
-* Berke Filiz, Yuval Goren, AnneLouise de Boer, [Recipe Generator](https://github.com/berkefiliz/text-mining-project/tree/Final_branch)
 
 ## Set-up
 
-1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2021.git`
+###Running in the cloud (Google Colab)
+
+1. Fork the repository to your Github account: go to https://github.com/bloemj/AUC_TMCI_2022 and click Fork
+2. Get updates (from time to time): In your fork on the Github website, click "Fetch upstream"
+3. Launch notebooks by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window. Enter the GitHub URL of the fork of the course materials in your own GitHub account to be able to save your changes. Click "Open notebook in new tab" to run the notebook.
+4. To save your changes, choose "Save a copy in GitHub" and accept the suggested location. Note that just using "Save" will not work, and changes will not automatically save.
+
+###Running on your own system
+
+1. Clone the repository locally: `git clone https://github.com/bloemj/AUC_TMCI_2022.git`
 2. Get updates (from time to time): `git pull`
 3. Create a conda environemnt: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
 4. Activate it: `conda activate myenv`
@@ -72,7 +76,7 @@ Alternatively, use [Binder](https://mybinder.org) (link above).
 
 ## Credits
 
-* The [previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2019) of this course.
+* Giovanni Colavizza, who ran the [previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2021) of this course.
 * Michael Repplinger, who ran the 2018/19 edition and Gianluca Lebani, who ran the 2017/18 edition.
 * Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial Humanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
 * James Hetherington and Giovanni Colavizza, [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/)
