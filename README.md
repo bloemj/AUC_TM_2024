@@ -54,7 +54,7 @@ See the [projects folder](/projects) for info.
 1. Fork the repository to your Github account: go to https://github.com/bloemj/AUC_TMCI_2022 and click Fork
 2. Get updates (from time to time): In your fork on the Github website, click "Fetch upstream"
 3. Launch notebooks by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window. Enter the GitHub URL of the fork of the course materials in your own GitHub account to be able to save your changes. Click "Open notebook in new tab" to run the notebook.
-4. To save your changes, choose "Save a copy in GitHub" and accept the suggested location. Note that just using "Save" will not work, and changes will not automatically save.
+4. To save your changes, choose "Save a copy in GitHub" and accept the suggested location. Note that just using "Save" will not work, and changes will not automatically save. This will also not work if you did not perform step 1 and are loading my version of the repository directly.
 
 ### Running on your own system
 
