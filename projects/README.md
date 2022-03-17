@@ -27,13 +27,15 @@ The project is the main grading item of the course. It will allow you to choose 
 ## Set-up
 
 1. [Repository README template](README_template.md).
-2. [Some datasets you can consider](https://docs.google.com/spreadsheets/d/11hCXmGfZBLx1-JPmtaWGv9PutuN7H2mEA35RmqdvDCU/edit?usp=sharing).
+2. [Some datasets you can consider](https://docs.google.com/spreadsheets/d/1DxHczqrAxlip1mA51BYSpygUrrNpiB1CaV3eiUC0DBs/edit?usp=sharing).
 3. List of list of datasets:
     * https://github.com/niderhoff/nlp-datasets
     * https://github.com/karthikncode/nlp-datasets
     * https://github.com/awesomedata/awesome-public-datasets#naturallanguage
     * https://www.cooldatasets.com/
     * https://www.kaggle.com/datasets
+    * https://en.wikipedia.org/wiki/List_of_text_corpora
+    * https://neerlandistiek.nl/2018/09/de-beste-digitale-taalbronnen/
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind some of these are from courses at the master level: do get inspired, but do not get worried.
     * [Projects from the previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
