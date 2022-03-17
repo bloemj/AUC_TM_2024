@@ -39,7 +39,7 @@ The project is the main grading item of the course. It will allow you to choose 
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind some of these are from courses at the master level: do get inspired, but do not get worried.
     * [Projects from the previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
-    * [Projects from 2020 edition](https://github.com/Giovanni1085/AUC_TMCI_2020)
+    * [Projects from 2019 edition](https://github.com/Giovanni1085/AUC_TMCI_2019)
     * https://dlab.epfl.ch/teaching/fall2018/cs401/reports
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
