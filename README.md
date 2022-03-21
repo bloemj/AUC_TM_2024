@@ -14,8 +14,8 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 3      | Language modelling  | <a href='slides/AUC_3_language_models.pdf'>slides</a> + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a> |
 | 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
-| 6      | Machine learning fundamentals  | <a href=''>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
-| 7      | Text classification  | <a href=''>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
+| 6      | Machine learning fundamentals  | <a href='slides/AUC_6_Machine_Learning.pdf'>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
+| 7      | Text classification  | <a href='slides/AUC_7_text_classification.pdf'>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
 | 8      | RNNs and NER  | <a href=''>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
 | 9      | Web scraping and APIs  | <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
 | 10      | Recommender systems  | <a href=''>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
