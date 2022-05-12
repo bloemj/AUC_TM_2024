@@ -44,6 +44,17 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 See the [projects folder](/projects) for info.
 
+### Ongoing projects
+
+Age prediction: https://github.com/d-hagen/TM_project
+News headlines: https://github.com/norahahr/TMproject
+Greek Mythology: https://github.com/RianneAr/Text_Mining_Project
+Lyrics formation: https://github.com/Claudio-creis/TEXT-MINING-PROJECT
+Movie recommender: https://github.com/XiaoxuanLu/Movie_recommender_system
+Marvel vs DC sentiment analysis: https://github.com/TomR2022/Text-Mining-Group-Project
+Sentiment analysis and stocks: https://github.com/joshbrook/TM-Project-2022
+Loanwords and their sentiment: https://github.com/DanielFM0/TM-Group-Project
+
 ### Project outcomes
 
 
