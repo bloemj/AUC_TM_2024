@@ -16,13 +16,13 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | <a href='slides/AUC_6_Machine_Learning.pdf'>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
 | 7      | Text classification  | <a href='slides/AUC_7_text_classification.pdf'>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
-| 8      | RNNs and NER  | <a href=''>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
-| 9      | Web scraping and APIs  | <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
-| 10      | Recommender systems  | <a href=''>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
-| 11      | Creating annotated corpora  | <a href=''>slides</a> |
-| 12      | Sentiment analysis  | <a href=''>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
-| 13      | Clustering and topic modelling  | <a href=''>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
-| 14      | XAI and Ethics  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) |
+| 8      | RNNs and NER  | <a href='slides/AUC_8_RNNs.pdf'>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
+| 9      | Recommender systems  | <a href='slides/AUC_9_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
+| 10      | Creating annotated corpora, Web scraping and APIs  | <a href='slides/AUC_10_Creating_annotated_corpora.pdf'>slides</a>, <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
+| 11      | Sentiment analysis  | <a href='slides/AUC_11_Sentiment_Analysis.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
+| 12      | Clustering and topic modelling  | <a href='slides/AUC_12_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
+| 13      | XAI and Bias in Word Embeddings  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) - <a href='slides/AUC_13_XAI_EmbeddingBias.pdf'>slides</a> |
+| 14      | Fairness and Text Mining for Humanities  | <a href='slides/AUC_14_Fairness_Humanities.pdf'>slides</a> |
 
 ### External materials
 
