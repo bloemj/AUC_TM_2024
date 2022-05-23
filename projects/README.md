@@ -24,6 +24,25 @@ The project is the main grading item of the course. It will allow you to choose 
 * **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a GitHub *issue* for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
 * **Final submission**. You are expected to **submit a public URL to your repository**, containing the following: a short **report** (4-page maximum, excluding references), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
 
+## Presentation
+
+For the grading of the presentations, I will pay attention to the following points:
+
+### Content
+
+* Presentation of the background to your project
+* Presentation of your key findings
+* Critical appraisal of your project and results
+* Presentation of the connection of your project to the course's topics
+
+### Delivery
+
+* Clarity
+* Pacing (and time limit)
+* Use of visual aids (slides etc.)
+* Ability to engage the audience
+* Ability to respond to questions (discussion)
+
 ## Set-up
 
 1. [Repository README template](README_template.md).
@@ -44,4 +63,12 @@ The project is the main grading item of the course. It will allow you to choose 
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
 6. [Report template](report/): A 4-page, double-column PDF report (4 pages excluding references), following a standard structure (where applicable): abstract, introduction, related work, (brief) data collection, dataset description with summary statistics, methods with math and description of main algorithms, results and findings, conclusions. This report will be evaluated according to how clearly and succinctly it is written, if the style is appropriate (e.g., figures with captions), if it contains all relevant contents, and how solid the results are.
+
+## Project grading
+
+For the grading of the final projects, I will pay attention to the following points:
+
+### Code
+
+### Report
 
