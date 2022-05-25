@@ -2,6 +2,8 @@
 
 The project is the main grading item of the course. It will allow you to choose a dataset and question of interest, and run an analysis all the way to communicating its results. A project should be an analysis of a question or topic of interest, using text data. You can use the techniques we have seen in class and/or others as well. 
 
+**The AUC Code of Conduct applies to this assignment: please only submit your group's work and reference sources where applicable.**
+
 *Each group must have a GitHub (or GitLab) repository and use it to provide regular updates (see below).*
 
 ## Timeline
@@ -68,7 +70,26 @@ For the grading of the presentations, I will pay attention to the following poin
 
 For the grading of the final projects, I will pay attention to the following points:
 
-### Code
+### Code and repository
+* Does it run and properly load all its dependencies? Did you use relative paths so that others can run the code?
+* Is your code readable (well-commented, well-structured with functions or code blocks) and documented, similar to the assignments?
+* Is your data well-structured and documented, if applicable?
+* Did you reference external resources where necessary?
+* Is the readme informative?
 
 ### Report
+
+* Author contributions: Did you indicate who contributed what, and was this an effective division of tasks?
+* Background: Does the problem and goal of the project become clear? Is the background information correct and would your classmates understand it?
+* Quality of the specific research question: Is the question or topic addressed in the project related to text mining and can it be addressed by methods we learned about in the course?
+* Method and data: Does the described approach/approaches effectively address (part of) the research question or problem? Are concrete enough details provided about the dataset(s) and methods(s) (algorithms, libraries) that you used? Are the essential properties of your dataset and how you collected it clearly described? Is there enough information that someone could reproduce the results of your project independently? Do you describe an effective validation/evaluation of your method?
+* Results: Are the results well analysed, evaluated and presented?
+* Conclusions: Are the results accurately summarized? Did you critically reflect upon your results? Are open issues and future work well covered?
+* Original contribution: Did you find the academic literature that is the most similar to what you are doing? What is the novelty of your proposal compared to what is described in the literature (gap in the literature), and does the report make this clear without overselling your idea?
+
+* Clarity of expression: Is the language in the report precise and accurate? Are you writing in an academic style/register while still remaining clear and not overusing jargon or uncommon/specific words?
+* Figures/graphs/tables: If relevant, are they properly used?
+* Supplementary materials: Does your report reference elements from your repository when appropriate?
+* Structure: Are all the aspects of the standard structure (if applicable) correctly included and is the report well-structured?
+
 
