@@ -9,17 +9,17 @@ The project is the main grading item of the course. It will allow you to choose 
 ## Timeline
 
 * **February 7** Guidelines and default project ideas out. Group formation opens on Canvas (you can self-organize, groups are capped to 3). Proposals for custom projects are encouraged.
-* **April 14** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
-* **April 21** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
-* **May 9** Project update 1 (see below for guidelines).
-* **May 19** Project update 2 (see below for guidelines).
-* **May 30-June 2** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
-* **June 3 (23:59 CEST)** Project due for all groups.
+* **March 31** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
+* **April 14** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
+* **Apr 25** Project update 1 (see below for guidelines).
+* **May 9** Project update 2 (see below for guidelines).
+* **May 26-30** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
+* **June 2 (23:59 CEST)** Project due for all groups.
 
 ## Practicalities
 
 * **Team size**: teams of 3 people are strongly encouraged. One or two groups can be sized 2 or 4 if necessary (ask me first, the expected workload goes down or up accordingly). Groups of 1 are not allowed.
-* **Contribution**: in the final report plase add a statement of what each team member contributed to the project. Team members will typically get the same grade, but I may differentiate in extreme cases of unequal contribution. You can contact me in confidence in the event of unequal contribution.
+* **Contribution**: in the final report plase add a statement of what each team member contributed to the project. Team members will typically get the same grade, but I may differentiate in clear cases of unequal contribution. You can contact me in confidence in the event of unequal contribution.
 *Example: John: Plotting graphs during data analysis, crawling the data, preliminary data analysis; Mary: Problem formulation, writing up the report, coming up with the algorithm; Chris: Coding up the algorithm, running tests, tabulating final results.*
 * **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by others. Under no circumstances may you look at another project's code, or incorporate their code into your project.
 * **Logistics**: you must create your project's GitHub (or GitLab) repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
@@ -59,7 +59,8 @@ For the grading of the presentations, I will pay attention to the following poin
     * https://neerlandistiek.nl/2018/09/de-beste-digitale-taalbronnen/
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind some of these are from courses at the master level: do get inspired, but do not get worried.
-    * [Projects from the previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
+    * [Projects from the previous-year edition](https://github.com/bloemj/AUC_TMCI_2022)
+    * [Projects from 2021 edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
     * [Projects from 2019 edition](https://github.com/Giovanni1085/AUC_TMCI_2019)
     * https://dlab.epfl.ch/teaching/fall2018/cs401/reports
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433

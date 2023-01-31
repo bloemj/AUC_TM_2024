@@ -1,5 +1,5 @@
 # Text Mining 2022/23
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/AUC_TMCI_2023/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/AUC_TM_2023/main)
 
 Amsterdam University College -- Text Mining -- Winter/Spring 2023.
 
@@ -53,14 +53,14 @@ See the [projects folder](/projects) for info.
 
 ### Running in the cloud (Google Colab)
 
-1. Fork the repository to your Github account: go to https://github.com/bloemj/AUC_TMCI_2023 and click Fork
+1. Fork the repository to your Github account: go to https://github.com/bloemj/AUC_TM_2023 and click Fork
 2. Get updates (from time to time): In your fork on the Github website, click "Fetch upstream"
 3. Launch notebooks by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window. Enter the GitHub URL of the fork of the course materials in your own GitHub account to be able to save your changes. Click "Open notebook in new tab" to run the notebook.
 4. To save your changes, choose "Save a copy in GitHub" and accept the suggested location. Note that just using "Save" will not work, and changes will not automatically save. This will also not work if you did not perform step 1 and are loading my version of the repository directly.
 
 ### Running on your own system
 
-1. Clone the repository locally: `git clone https://github.com/bloemj/AUC_TMCI_2023.git`
+1. Clone the repository locally: `git clone https://github.com/bloemj/AUC_TM_2023.git`
 2. Get updates (from time to time): `git pull`
 3. Create a conda environment: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
 4. Activate it: `conda activate myenv`
