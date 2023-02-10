@@ -28,13 +28,13 @@ For Windows, see [here](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_
 
 #### The best way - Cloud
 
-1. The first time, make a Github account and fork the repository to your Github account: go to https://github.com/bloemj/AUC_TMCI_2022 and click Fork
+1. The first time, make a Github account and fork the repository to your Github account: go to https://github.com/bloemj/AUC_TM_2023 and click Fork
 2. Get updates to the code before every lab: In your fork on the Github website, click "Fetch upstream"
 3. Launch notebooks by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window. Enter the GitHub URL of the fork of the course materials in your own GitHub account to be able to save your changes. 
 
 #### The best way - Offline
 
-1. The first time, clone the repository locally using `git clone https://github.com/Giovanni1085/AUC_TMCI_2021.git`.
+1. The first time, clone the repository locally using `git clone https://github.com/bloemj/AUC_TM_2023.git`.
 2. Keep getting updates to the code before every lab by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
 
 #### The easy way - 1
