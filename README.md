@@ -9,7 +9,7 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 | Week         | Topic           | Materials  |
 | ------------- |-------------| -----:|
-| 1      | Introduction and Python refresher | slides + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
+| 1      | Introduction and Python refresher | <a href='slides/AUC_01_Introduction.pdf'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
 | 2      | Introduction to NLP and NLP pipelines | slides + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
 | 3      | Language modelling  | slides + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a> |
 | 4      | Vector space semantics | slides + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
