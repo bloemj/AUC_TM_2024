@@ -15,12 +15,12 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings.pdf'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | <a href='slides/AUC_6_ML.pdf'>slides</a> + <a href='notebooks/6_ML.ipynb'>notebook</a> |
-| 7      | Text classification  | slides + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
-| 8      | RNNs and NER  | slides + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
-| 9      | Recommender systems  | slides + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
-| 10      | Creating annotated corpora, Web scraping and APIs  | slides, <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
-| 11      | Sentiment analysis  | slides + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
-| 12      | Clustering and topic modelling  | slides + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
+| 7      | Text classification  | <a href='slides/AUC_7_text_classification.pdf'>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
+| 8      | RNNs and NER  | <a href='slides/AUC_8_RNNs.pdf'>slides</a> + <a href='notebooks/8_1_NER.ipynb'>notebook</a> |
+| 9      | Recommender systems  | <a href='slides/AUC_9_Recommender_Systems.pdf'>slides</a> + <a href='notebooks/10_Recommender_Systems.ipynb'>notebook</a> |
+| 10      | Creating annotated corpora, Web scraping and APIs  | <a href='slides/AUC_10_Creating_annotated_corpora.pdf'>slides</a>, <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
+| 11      | Sentiment analysis  | <a href='slides/AUC_11_Sentiment_Analysis.pdf'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
+| 12      | Clustering and topic modelling  | <a href='slides/AUC_12_Clustering_TM.pdf'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
 | 13      | XAI and Bias in Word Embeddings  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) - slides |
 | 14      | Fairness and Text Mining for Humanities  | slides |
 
