@@ -46,10 +46,10 @@ See the [projects folder](/projects) for info.
 
 ### Ongoing projects
 
-Biological terminology visualization: https://github.com/aidanlowrie/text-mining-project
-Board game recommender: https://github.com/iasonmat/BoardGame-Recommender
-Weather and restaurant reviews: https://github.com/jago-h/TM_project
-The Office script analysis: https://github.com/shantanu-555/Text-Mining-Project
+* Biological terminology visualization: https://github.com/aidanlowrie/text-mining-project
+* Board game recommender: https://github.com/iasonmat/BoardGame-Recommender
+* Weather and restaurant reviews: https://github.com/jago-h/TM_project
+* The Office script analysis: https://github.com/shantanu-555/Text-Mining-Project
 
 ### Project outcomes
 
