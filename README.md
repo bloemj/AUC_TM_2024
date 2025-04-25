@@ -46,8 +46,13 @@ See the [projects folder](/projects) for info.
 
 ### Project overview
 
-* Projects have not started yet!
-
+* Book recommender system - https://github.com/claricevanderpaardt/TM_Project
+* Music recommender system - https://github.com/Hsuk2k/TM_Project
+* Quantifying bias in AI - https://github.com/mucel/Quantifying_bias_in_ai.git
+* Book recommender system using Graph Neural Networks - https://github.com/nagliskaro/Recommender_GNN
+* Gender and sentiment in online reviews - https://github.com/marmarbar003/TxtMin-Project-SA
+* Dialogue summarization - https://github.com/ovirandunu/summarizewithpegasus
+* Creating spoiler-free summaries of TV shows - https://github.com/piternicolaas/Text-Mining-Project
 
 ## Set-up
 
